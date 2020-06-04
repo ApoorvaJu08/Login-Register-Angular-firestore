@@ -1,3 +1,7 @@
+This project is made using Angular Firestore. Angular is used for frontend and Cloud Firestore is used for both backend and database.
+First clone the project
+In the project folder run npm install and then ng serve to run the project.
+
 # Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
